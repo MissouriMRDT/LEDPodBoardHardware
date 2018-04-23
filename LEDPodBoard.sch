@@ -199,7 +199,7 @@ F 3 "" H 1650 1150 60  0001 C CNN
 	1    1650 1250
 	0    -1   -1   0   
 $EndComp
-Text Label 3700 2300 0    60   ~ 0
+Text Label 4050 2200 2    60   ~ 0
 Heat_Slug
 Wire Wire Line
 	1500 2050 1500 1450
